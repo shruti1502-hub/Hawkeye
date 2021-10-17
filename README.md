@@ -1,5 +1,7 @@
 # Hawkeye
 
+WE HAVE NOT OPEN SOURCED OUR CODE YET. IF YOU WANT ACCESS TO THE CODE, KINDLY CONTACT US AT- paritoshpushp@gmail.com
+
 As the world advances in its journey towards automation and machine intelligence, equipping cutting-edge hardware with intelligent instincts grows in its importance. As intellect is for humans, software is for machines, hence we present an amalgamation of critically useful visionary skill sets for tracking, surveillance and unguided machine transportation. Autonomous unmanned ground vehicles comprise several technologies that allow the machine to be self-acting and self-regulating, sans human intervention.
 
 
@@ -51,21 +53,6 @@ Please download the <a href = "https://drive.google.com/file/d/1ZuUiUB6CK66lMxYH
         python main.py
       
       
-   
-<h2 align= "left"><b>Website in a Print view</b></h2>
-
-<p align="left">  
-
-<img width=40% src="Screenshots/01.png"> &ensp;
-<img width=40% src="Screenshots/02.png"> &ensp;
-<img width=40% src="Screenshots/03.png"> &ensp;
-<img width=40% src="Screenshots/04.png"> &ensp;
-<img width=40% src="Screenshots/05.png"> &ensp;
-<img width=40% src="Screenshots/06.png"> &ensp;
-<img width=40% src="Screenshots/07.png"> &ensp;
-<img width=40% src="Screenshots/08.png"> &ensp;
-<img width=40% src="Screenshots/09.png"> &ensp;
-<img width=40% src="Screenshots/10.png"> &ensp;
 
 
   
